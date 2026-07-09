@@ -4,7 +4,7 @@
 
 ## 关于我
 
-我是计算机科学与技术专业本科生，关注 AI systems、深度学习和计算机系统。我喜欢从底层把东西搭起来：从 memory allocator、Unix shell job control，到神经网络层、tokenizer 和小型语言模型。
+我是一名计算机科学与技术专业本科生，关注 AI systems、深度学习和计算机系统，喜欢从底层把东西搭起来：从 memory allocator、Unix shell job control，到神经网络层、tokenizer 和小型语言模型。
 
 ## 代表项目
 
@@ -16,7 +16,6 @@
 
 - 机器学习系统：tokenization、Transformer training、data pipeline、evaluation、reproducible experiments。
 - 计算机视觉与表征学习：CNN、ViT、contrastive learning、diffusion、CLIP、DINO-style self-supervision。
-- 计算机系统：C、memory management、cache behavior、Unix processes、networking、performance debugging。
 
 ## English Version
 
@@ -32,7 +31,6 @@ I am a computer science undergraduate, interested in AI systems, deep learning, 
 
 - Machine learning systems: tokenization, Transformer training, data pipelines, evaluation, and reproducible experiments.
 - Computer vision and representation learning: CNNs, ViT, contrastive learning, diffusion, CLIP, and DINO-style self-supervision.
-- Computer systems: C, memory management, cache behavior, Unix processes, networking, and performance debugging.
 
 ## Contact
 
