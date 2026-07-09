@@ -27,7 +27,6 @@ I am a computer science undergraduate, interested in AI systems, deep learning, 
 - [MiniGPT from Scratch](https://github.com/sentoayaka/minigpt-from-scratch): a CS336 Assignment 1 based GPT-style language model in PyTorch, including BPE tokenization, RoPE attention, RMSNorm, SwiGLU, AdamW, training logs, checkpointing, and generation.
 - [CS231n Notes and Implementations](https://github.com/sentoayaka/cs231n-notes-and-implementations): deep learning notes and implementation takeaways covering manual backpropagation, CNNs, RNNs, Transformers, SSL, diffusion, CLIP, and DINO.
 - [Systems Programming Labs](https://github.com/sentoayaka/systems-programming-labs): systems-programming project summaries covering malloc, cache simulation, Unix shell job control, and HTTP proxy design.
-- [Fudan iCourse Subscriber](https://github.com/sentoayaka/Fudan_iCourse_Subscriber): a practical course-subscription and automation project for Fudan iCourse workflows.
 
 ## Technical Interests
 
